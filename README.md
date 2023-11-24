@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Applications<br>👯 I’m looking to collaborate on Mobile Application<br>🌱 I’m currently learning MERN Stack
+🔭 I’m currently working on Web Applications<br>👯 I’m looking to collaborate on Mobile Application<br>🌱 coding with JavaScript & Java
 
 
 ## 🌐 Socials:
